@@ -19,7 +19,7 @@ As a CS student, I have been exposed to the core pillars of software development
 ---
 
 ### 🎯 My Goal
-I have the theoretical baseline down, and now I'm looking for the accountability, structure, and mentorship of a senior to help me start building real, impactful projects. I am ready to dedicate 15+ hours a week to the weekend grind.
+I have the theoretical baseline down, and now I'm looking for the accountability, structure, and mentorship of a senior to help me start building real, impactful projects. 
 
 ---
 *"Jack of all trades, master of none, though oftentimes better than a master of one." — Let's build.*
